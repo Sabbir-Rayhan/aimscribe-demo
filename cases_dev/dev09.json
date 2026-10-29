@@ -1,0 +1,17 @@
+{
+  "case_id": "dev09",
+  "label": "DEV out-of-scope: fever, calf pain and red eyes after flood water",
+  "type": "dev",
+  "input": {
+    "complaints": "Fever, severe pain in the calf muscles and red eyes for 4 days after wading through flood water.",
+    "duration": "4 days",
+    "age": "35",
+    "sex": "Male",
+    "weight_kg": "68",
+    "pregnancy": "",
+    "history": "Healthy.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Temp 38.8 C. Passing less urine than usual."
+  }
+}

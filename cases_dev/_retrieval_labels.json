@@ -1,0 +1,52 @@
+{
+  "dev01": [
+    "DEN-DX-004",
+    "DEN-MED-002",
+    "DEN-ADV-001",
+    "DEN-DX-003"
+  ],
+  "dev02": [
+    "CHO-DX-001",
+    "CHO-DX-003",
+    "CHO-MED-006",
+    "CHO-MED-008"
+  ],
+  "dev03": [
+    "HTN-MED-001",
+    "HTN-ADV-004",
+    "HTN-DX-003"
+  ],
+  "dev04": [
+    "CHK-DX-001",
+    "CHK-MED-001",
+    "CHK-MED-002",
+    "CHK-INV-001"
+  ],
+  "dev05": [
+    "CHO-DX-002",
+    "CHO-MED-001",
+    "CHO-MED-002",
+    "CHO-MED-009"
+  ],
+  "dev06": [
+    "HTN-DX-002",
+    "HTN-MED-001",
+    "HTN-ADV-002",
+    "HTN-INV-002"
+  ],
+  "dev07": [
+    "DEN-INV-001",
+    "DEN-DX-004",
+    "DEN-DX-005",
+    "DEN-ADV-004"
+  ],
+  "dev08": [
+    "CHK-ADV-003",
+    "CHK-MED-005",
+    "CHK-MED-002"
+  ],
+  "dev09": [
+    "CHK-DX-004",
+    "DEN-DX-006"
+  ]
+}

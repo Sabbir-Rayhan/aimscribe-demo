@@ -1,0 +1,17 @@
+{
+  "case_id": "dev04",
+  "label": "DEV child with fever, joint pain and rash",
+  "type": "dev",
+  "input": {
+    "complaints": "Fever for 2 days, crying with pain in knees and ankles, red rash on the body.",
+    "duration": "2 days",
+    "age": "8 years",
+    "sex": "Male",
+    "weight_kg": "24",
+    "pregnancy": "",
+    "history": "Previously healthy.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Temp 39 C. Neighbourhood children had a similar illness recently. Playing less, drinking fluids."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "dev02",
+  "label": "DEV toddler with diarrhoea",
+  "type": "dev",
+  "input": {
+    "complaints": "Watery diarrhoea for 1 day, restless, drinks eagerly.",
+    "duration": "1 day",
+    "age": "2 years",
+    "sex": "Female",
+    "weight_kg": "12",
+    "pregnancy": "",
+    "history": "Previously healthy.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Cholera outbreak declared locally. Eyes sunken, pulse rapid, skin pinch goes back slowly, alert, able to drink."
+  }
+}

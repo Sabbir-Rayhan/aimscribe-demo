@@ -1,0 +1,17 @@
+{
+  "case_id": "dev07",
+  "label": "DEV day-6 dengue-type illness, fever settled",
+  "type": "dev",
+  "input": {
+    "complaints": "Fever for 5 days that settled yesterday; now severe stomach pain and repeated vomiting, feels weak.",
+    "duration": "6 days",
+    "age": "19",
+    "sex": "Female",
+    "weight_kg": "50",
+    "pregnancy": "",
+    "history": "Healthy.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Temp 37.0 C, BP 100/70, pulse 100/min."
+  }
+}

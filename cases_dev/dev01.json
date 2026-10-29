@@ -1,0 +1,17 @@
+{
+  "case_id": "dev01",
+  "label": "DEV elderly diabetic with fever and vomiting",
+  "type": "dev",
+  "input": {
+    "complaints": "Fever for 4 days, body aches, vomiting three times today, feels very tired.",
+    "duration": "4 days",
+    "age": "66",
+    "sex": "Male",
+    "weight_kg": "70",
+    "pregnancy": "",
+    "history": "Type 2 diabetes and high blood pressure.",
+    "medicines": "Metformin, amlodipine, aspirin 75 mg daily",
+    "allergies": "None known",
+    "findings": "Temp 38.4 C, BP 100/60, pulse 108/min, tender abdomen. Platelets 70,000."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "dev05",
+  "label": "DEV infant with severe dehydration",
+  "type": "dev",
+  "input": {
+    "complaints": "Watery diarrhoea and vomiting for 1 day, floppy and difficult to wake.",
+    "duration": "1 day",
+    "age": "8 months",
+    "sex": "Female",
+    "weight_kg": "8",
+    "pregnancy": "",
+    "history": "Breastfed.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Cholera outbreak declared locally. Lethargic, weak pulse, sunken eyes, not able to drink."
+  }
+}

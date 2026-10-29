@@ -1,0 +1,17 @@
+{
+  "case_id": "dev08",
+  "label": "DEV persistent joint pain weeks after fever",
+  "type": "dev",
+  "input": {
+    "complaints": "Joint pain in both hands and knees for 3 weeks since a fever illness; stiff in the morning.",
+    "duration": "3 weeks",
+    "age": "46",
+    "sex": "Female",
+    "weight_kg": "62",
+    "pregnancy": "",
+    "history": "No other illness.",
+    "medicines": "Paracetamol as needed",
+    "allergies": "None known",
+    "findings": "No fever now. Fever illness a month ago with rash and severe joint pain."
+  }
+}

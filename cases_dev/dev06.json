@@ -1,0 +1,17 @@
+{
+  "case_id": "dev06",
+  "label": "DEV diabetic with very high BP",
+  "type": "dev",
+  "input": {
+    "complaints": "Headache for a week, came for check-up.",
+    "duration": "1 week",
+    "age": "60",
+    "sex": "Male",
+    "weight_kg": "82",
+    "pregnancy": "",
+    "history": "Type 2 diabetes for 8 years.",
+    "medicines": "Metformin",
+    "allergies": "None known",
+    "findings": "BP 164/102 and 166/104 on two separate visits this week."
+  }
+}
