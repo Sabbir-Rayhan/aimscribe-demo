@@ -1,0 +1,17 @@
+{
+  "case_id": "case06",
+  "label": "Modified version of case04 (woman who may become pregnant)",
+  "type": "modified",
+  "input": {
+    "complaints": "Occasional mild headache; came back for a blood pressure re-check. No chest pain, breathlessness or visual symptoms.",
+    "duration": "BP first found raised 2 weeks ago",
+    "age": "29",
+    "sex": "Female",
+    "weight_kg": "58",
+    "pregnancy": "Unknown / may become pregnant",
+    "history": "No diabetes, heart disease, stroke or kidney disease. Non-smoker.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Two weeks ago BP was 148/94 mmHg and she was advised lifestyle changes. Today three readings in the same arm: 150/96, 152/94, 148/96 mmHg. Pulse 78/min, regular."
+  }
+}

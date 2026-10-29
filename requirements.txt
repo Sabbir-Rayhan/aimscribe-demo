@@ -1,0 +1,7 @@
+streamlit>=1.40
+fastembed>=0.4
+google-genai>=1.0
+numpy
+pandas
+python-dotenv
+# optional: scikit-learn   (only for the offline TF-IDF fallback index)

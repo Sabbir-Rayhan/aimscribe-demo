@@ -1,0 +1,17 @@
+{
+  "case_id": "case03",
+  "label": "Ordinary severe dehydration from watery diarrhoea",
+  "type": "ordinary",
+  "input": {
+    "complaints": "Profuse watery diarrhoea (like rice water) for 12 hours with repeated vomiting. Very weak and sleepy, cannot drink.",
+    "duration": "12 hours",
+    "age": "30",
+    "sex": "Male",
+    "weight_kg": "52",
+    "pregnancy": "",
+    "history": "No known illnesses.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "A cholera outbreak has been declared in his district. Lethargic, eyes sunken, pulse weak and fast, skin pinch goes back very slowly, not able to drink. Blood glucose not yet checked."
+  }
+}
