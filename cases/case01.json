@@ -1,0 +1,17 @@
+{
+  "case_id": "case01",
+  "label": "Ordinary dengue-type fever",
+  "type": "ordinary",
+  "input": {
+    "complaints": "High fever for 3 days with severe headache, pain behind the eyes, body aches and a mild rash on the trunk since this morning.",
+    "duration": "3 days",
+    "age": "24",
+    "sex": "Male",
+    "weight_kg": "62",
+    "pregnancy": "",
+    "history": "No known medical illnesses.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Temp 39.2 C, BP 110/70, pulse 92/min. No bleeding, no abdominal pain, no vomiting. Eating and drinking, passing urine normally. No blood tests done yet. Several neighbours had similar fevers recently."
+  }
+}

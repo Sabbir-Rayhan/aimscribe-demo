@@ -1,0 +1,17 @@
+{
+  "case_id": "case05",
+  "label": "Ambiguous and incomplete fever case",
+  "type": "ambiguous",
+  "input": {
+    "complaints": "Fever with body aches and joint pains for a few days.",
+    "duration": "a few days",
+    "age": "45",
+    "sex": "Female",
+    "weight_kg": "",
+    "pregnancy": "",
+    "history": "",
+    "medicines": "",
+    "allergies": "",
+    "findings": ""
+  }
+}

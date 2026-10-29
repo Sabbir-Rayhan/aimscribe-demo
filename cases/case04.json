@@ -1,0 +1,17 @@
+{
+  "case_id": "case04",
+  "label": "Ordinary raised blood pressure",
+  "type": "ordinary",
+  "input": {
+    "complaints": "Occasional mild headache; came back for a blood pressure re-check. No chest pain, breathlessness or visual symptoms.",
+    "duration": "BP first found raised 2 weeks ago",
+    "age": "55",
+    "sex": "Male",
+    "weight_kg": "78",
+    "pregnancy": "",
+    "history": "No diabetes, heart disease, stroke or kidney disease. Non-smoker.",
+    "medicines": "None",
+    "allergies": "None known",
+    "findings": "Two weeks ago BP was 148/94 mmHg and he was advised lifestyle changes. Today three readings in the same arm: 150/96, 152/94, 148/96 mmHg. Pulse 78/min, regular."
+  }
+}
